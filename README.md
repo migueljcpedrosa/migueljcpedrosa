@@ -1,5 +1,5 @@
 # 💫 About Me:
- Informatics and Computing Engineering @ FEUP
+Software Engineering @ FEUP
 
 
 ## 🌐 Socials:
